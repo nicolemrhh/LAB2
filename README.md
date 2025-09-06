@@ -53,3 +53,11 @@ DELETE /api/courses/:id → Delete a course
 node_modules and .env are excluded using .gitignore.
 
 Database must be created in MySQL with the required students and courses tables.
+
+Conclusion:
+
+
+While building this project, I faced challenges with route configuration, MySQL schema setup, and Git identity errors.
+Debugging Postman responses taught me to carefully check controllers and routes.
+Overall, I learned the importance of clean structure, debugging with logs, and version control best practices when developing APIs. Also to be strict in checking the variables created, to make sure everything is in flow according to the steps and requirements given
+
